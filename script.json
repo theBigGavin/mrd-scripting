@@ -1,0 +1,44 @@
+{
+  "author" : {
+    "name" : "theBigGavin",
+    "email" : null,
+    "homepage" : "https://github.com/theBigGavin"
+  },
+  "localizedNames" : {
+    "it" : "",
+    "en" : "MRD Market Overview",
+    "zh" : "MRD 大盘速览",
+    "es" : "",
+    "pt" : "",
+    "fr" : "",
+    "de" : "",
+    "ru" : "",
+    "ja" : ""
+  },
+  "runInApp" : false,
+  "color" : "rgba(56, 189, 248, 1)",
+  "permissions" : null,
+  "description" : "A股指数、板块资金流向与 AI Token 指数速览, 数据来自 mrd.hermes.cc.cd。",
+  "remoteResource" : {
+    "url" : "https://github.com/theBigGavin/mrd-scripting",
+    "autoUpdateInterval" : 21600
+  },
+  "localizedDescriptions" : {
+    "it" : "",
+    "en" : "A-share indices, sector money flows and AI token index from mrd.hermes.cc.cd.",
+    "zh" : "A股指数、板块资金流向与 AI Token 指数速览, 数据来自 mrd.hermes.cc.cd。",
+    "es" : "",
+    "pt" : "",
+    "fr" : "",
+    "de" : "",
+    "ru" : "",
+    "ja" : ""
+  },
+  "name" : "MRD 大盘速览",
+  "iconImage" : "",
+  "contributors" : [],
+  "intentInputTypes" : [],
+  "entry" : "index.tsx",
+  "icon" : "square.2.layers.3d.fill",
+  "version" : "1.0.0"
+}
